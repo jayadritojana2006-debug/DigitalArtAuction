@@ -15,6 +15,7 @@ This project is a basic decentralized Digital Art Auction smart contract built u
 - 🥇 Automatic highest bidder update
 - 🔒 Secure auction closing (only seller can end it)
 - 📦 On-chain storage of auction state
+- 💸 Secure transaction of  bid amount to the seller from the buyer without discrepancies.
 
 ## 🔗 Deployed Smart Contract Link
 Contract Address:
